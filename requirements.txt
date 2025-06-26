@@ -1,3 +1,6 @@
 surprise
 pandas
-numpy
+numpy<2
+matplotlib
+IPython
+seaborn
